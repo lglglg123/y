@@ -1,3 +1,7 @@
 ffff
 ffff
-gggg  ffffff 55555
+<<<<<<< HEAD
+gggg  ffffff
+=======
+gggg  ffffff 4444
+>>>>>>> hot-fix
